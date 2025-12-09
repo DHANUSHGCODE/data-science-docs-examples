@@ -198,29 +198,4 @@ node js/mathjs_example.js
 node js/tfjs_regression.js
 ```
 
----
-
-# ⭐ Good for Resume
-
-This project shows:
-
-* Documentation writing
-* Python data skills
-* Machine learning basics
-* GitHub portfolio
-* Understanding of NumPy, Pandas, Scikit-learn
-* JavaScript ML skills (extra)
-
----
-
-# 🎥 Recommended Beginner Data Science Course
-
-Search on YouTube:
-
-* **“Codebasics Data Science Full Course”** (best beginner)
-* **“Freecodecamp numpy pandas full course”**
-* **“Krish Naik machine learning beginners”**
-
----
-
  **"create full code files"**.
