@@ -223,13 +223,4 @@ Search on YouTube:
 
 ---
 
-# 🎉 Done!
-
-You can upload this FULL document as your GitHub `README.md`.
-
-If you want:
-📌 Full folder with all `.py` and `.js` files written
-📌 “About Me” GitHub profile section
-📌 Badges, GitHub stats
-
-Just tell me: **"create full code files"**.
+ **"create full code files"**.
