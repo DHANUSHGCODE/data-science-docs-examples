@@ -199,3 +199,25 @@ node js/tfjs_regression.js
 ```
 
  **"create full code files"**.
+
+## Installation
+
+Install dependencies using:
+```bash
+pip install -r requirements.txt
+```
+
+## Quick Start
+
+Run the examples:
+```bash
+python examples/pandas_basics.py
+python examples/numpy_basics.py
+python examples/matplotlib_basics.py
+python examples/sklearn_basics.py
+```
+
+## Troubleshooting
+
+- Ensure Python 3.7+ is installed
+- Install all dependencies from requirements.txt
