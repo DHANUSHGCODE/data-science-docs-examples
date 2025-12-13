@@ -4,3 +4,6 @@
 *.csv linguist-language=CSV
 *.md linguist-documentation
 *.txt linguist-documentation
+README* linguist-documentation
+PROJECT_STRUCTURE.md linguist-documentation
+requirements.txt linguist-documentation
