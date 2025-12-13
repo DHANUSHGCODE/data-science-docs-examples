@@ -1,0 +1,6 @@
+# Force language detection for GitHub
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
+*.csv linguist-language=CSV
+*.md linguist-documentation
+*.txt linguist-documentation
